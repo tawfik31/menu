@@ -1,0 +1,38 @@
+.lotfy{
+    margin-left: 424px;
+    margin-top: 30px;
+ width: 200px;
+ border-radius: 610px;
+}
+
+
+
+body{
+    background-color: rgb(165, 42, 42);
+}
+
+
+
+h1{
+    text-align: center;
+    font-size: 50px;
+    color: rgb(255, 255, 255);
+    text-shadow: 20px 20px 10px black;
+}
+
+
+
+button{
+    display:grid;
+    margin-left: 420px;
+    margin-top:20px ;
+    width: 200px;
+    font-size: 25px;
+    border-radius: 10px;
+    border: 5px solid rgb(66, 39, 39);
+    font-weight: 900;
+}
+button:hover{
+    background-color: blue;
+    color: #ffffff;
+}
